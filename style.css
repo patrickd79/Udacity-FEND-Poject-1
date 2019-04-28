@@ -1,17 +1,17 @@
 .header img{
     float: left;
     margin: 0.5em;
-    background: linear-gradient(25deg, gray 50%, black 100%);     
+    background: linear-gradient(25deg, rgb(187, 166, 150) 5%, saddlebrown 95%);     
     height: 10%;
     width: 10%;
-    border-radius: 10%;
+    border-radius: 3%;
 
 }
 
 .header h1{
     text-align: right;
     font-family: 'Lato', sans-serif;
-    font-size: 4em;
+    font-size: 5em;
     margin: .5em;
     font-weight: 900;
     color: cornflowerblue;
@@ -21,7 +21,7 @@
     text-align: right;
     font-weight: bolder;
     margin: 1em;
-    font-size: 1.5em;
+    font-size: 2em;
     font-family: 'Lato', sans-serif;
     color: saddlebrown;
 }
@@ -35,7 +35,7 @@
 .main-img {
     width: 100%;
     margin: 2% 0% 0% 0%;
-    filter: invert(65%);
+    
     
     
 }
