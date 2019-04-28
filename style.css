@@ -1,7 +1,11 @@
 .header img{
     float: left;
     margin: 0.5em;
-    color: black;
+    background: linear-gradient(25deg, gray 50%, black 100%);     
+    height: 10%;
+    width: 10%;
+    border-radius: 10%;
+
 }
 
 .header h1{
@@ -10,6 +14,7 @@
     font-size: 4em;
     margin: .5em;
     font-weight: 900;
+    color: cornflowerblue;
 }    
 
 .header p{
@@ -18,10 +23,24 @@
     margin: 1em;
     font-size: 1.5em;
     font-family: 'Lato', sans-serif;
+    color: saddlebrown;
 }
 .header{
     border-bottom: #7d97ad;
     border-bottom-style: solid;
     padding: 2em;
     
+}
+
+.main-img {
+    width: 100%;
+    margin: 2% 0% 0% 0%;
+    filter: invert(65%);
+    
+    
+}
+
+.photo-credit{
+    text-align: right;
+    font-size: small;
 }
