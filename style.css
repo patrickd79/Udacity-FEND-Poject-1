@@ -1,0 +1,27 @@
+.header img{
+    float: left;
+    margin: 0.5em;
+    color: black;
+}
+
+.header h1{
+    text-align: right;
+    font-family: 'Lato', sans-serif;
+    font-size: 4em;
+    margin: .5em;
+    font-weight: 900;
+}    
+
+.header p{
+    text-align: right;
+    font-weight: bolder;
+    margin: 1em;
+    font-size: 1.5em;
+    font-family: 'Lato', sans-serif;
+}
+.header{
+    border-bottom: #7d97ad;
+    border-bottom-style: solid;
+    padding: 2em;
+    
+}
