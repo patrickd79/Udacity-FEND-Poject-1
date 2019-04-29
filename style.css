@@ -44,3 +44,45 @@
     text-align: right;
     font-size: small;
 }
+
+.pro-pic-title{
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    font-size: 2.5em;
+    color: rgb(131, 44, 4);
+    text-align: left;
+}
+
+.proj-pics{
+    display: flex;
+    align-items: stretch;
+    flex-wrap: wrap;
+    
+}
+       
+#proj-pic-1{
+    height: 200px;
+    width: 400px;
+    
+}   
+
+#proj-pic-2{
+    height: 200px;
+    width: 400px;
+    
+}   
+
+#proj-pic-3{
+    height: 200px;
+    width: 400px;
+    
+    
+}
+
+.pic-headings{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 2em;
+    color: sienna;
+    text-align: center;
+}
